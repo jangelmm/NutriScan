@@ -1,11 +1,14 @@
-# BeeLine
+# **NutriScan**
 
-![Imagen](./Documentacion-Desarrollo/Images/BeeLine.jpg)
+*"Escanea. Entiende. Decide."*
 
-Documentación del Proyecto
-## Documentación Técnica
+## Documentación del Proyecto
 
-## Desarrollo
-- [Design Thinking](./Documentacion-Desarrollo/DesignThinking.md)
-- [Learn Startup](./Documentacion-Desarrollo/LearnStartup.md)
-- [Scrum](./Documentacion-Desarrollo/Scrum.md)
+### Documentación Técnica
+
+### Desarrollo
+
+* [Design Thinking](./Documentacion-Desarrollo/DesignThinking.md)
+* [Lean Startup](./Documentacion-Desarrollo/LeanStartup.md)
+* [Scrum](./Documentacion-Desarrollo/Scrum.md)
+
